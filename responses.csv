@@ -1,0 +1,29 @@
+image_id,image_path,question,response
+11xjmNF5TAL,images/small/ee/ee239f0f.jpg,How many platforms are in this product?,Five
+21QA1aaQcsL,images/small/1e/1e00bd6c.jpg,"Here's an analysis of the image and the description, followed by a question and answer:
+
+**Analysis:**
+
+*   **Image:** The image shows a cable with different connectors on each end. One connector is identified as HDMI.
+*   **Description:** The description explicitly states that the cable goes from DisplayPort to HDMI.
+
+**Question & Answer:**
+
+What type of cable is it?",DisplayPort
+21Qlz9BiTzL,images/small/36/36b8f278.jpg,"Here's my question and answer:
+
+What acronym is displayed?",FPO
+21Qlz9BiTzL,images/small/36/36b8f278.jpg,"Here's the breakdown:
+
+*   The image shows ""FPO"", which likely stands for ""For Placement Only"".
+*   The description is about two different products: Sparkling Seltzer Water and Tonic Water.
+
+Here is my question and answer:
+
+Which placeholder image is used for the products?",FPO
+21SgHQ5qBvL,images/small/77/77398330.jpg,What color is the case?,Clear
+21VJ9lpiwsL,images/small/d2/d2e25eaf.jpg,What type of foil is shown?,Aluminum
+21cjGwLXbzL,images/small/72/729f3ed0.jpg,What are the first three letters of the cupcake's frosting?,FPO
+21hsHbAs2mL,images/small/79/799ef10c.jpg,What is the material of the earrings?,Silver
+21k5zDW1ZeL,images/small/36/36ea13ff.jpg,What company is indicated in the image?,Amazon
+21ltCUtFMzL,images/small/ac/ace9c713.jpg,What is the primary color of the umbrella?,Green
