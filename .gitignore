@@ -1,2 +1,10 @@
 images/
 listings/
+responses_*.csv
+validation_*.csv
+train.csv
+temp.csv
+VQA.zip
+extra.csv
+20krun.png
+notebooks/data_generation.ipynb
