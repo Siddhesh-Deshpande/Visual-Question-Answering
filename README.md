@@ -1,0 +1,2 @@
+# Instruction for running inference.py file
+Please keep the weights folder and the inference.py file in the same parent folder before running the inference.py file and download all the required libraries from requirement.txt file 
