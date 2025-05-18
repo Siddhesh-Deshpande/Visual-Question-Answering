@@ -36,7 +36,7 @@ def main():
             generated_ids = model.generate(**inputs,max_new_tokens=10)
             answer = processor.batch_decode(generated_ids, skip_special_tokens=True)[0].strip()
         except Exception as e:
-            print(e)
+            # print(e)
             answer = "error"
         # Ensure answer is one word and in English (basic post-processing)
         answer = str(answer).split()[0].lower()
